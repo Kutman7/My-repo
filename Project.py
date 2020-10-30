@@ -273,7 +273,7 @@ def q10(n):
 # ******************************************************************************
 
 
-def qq1(n):
+def lv(n):
    btn_1['bg'] = "#5e5d5d"
    btn_2['bg'] = "#5e5d5d"
    btn_3['bg'] = "#5e5d5d"
@@ -287,27 +287,27 @@ def qq1(n):
 
 
 btn_1.bind("<Enter>", q1)
-btn_1.bind("<Leave>", qq1)
+btn_1.bind("<Leave>", lv)
 btn_2.bind("<Enter>", q2)
-btn_2.bind("<Leave>", qq1)
+btn_2.bind("<Leave>", lv)
 btn_3.bind("<Enter>", q3)
-btn_3.bind("<Leave>", qq1)
+btn_3.bind("<Leave>", lv)
 btn_4.bind("<Enter>", q4)
-btn_4.bind("<Leave>", qq1)
+btn_4.bind("<Leave>", lv)
 btn_5.bind("<Enter>", q5)
-btn_5.bind("<Leave>", qq1)
+btn_5.bind("<Leave>", lv)
 btn_6.bind("<Enter>", q6)
-btn_6.bind("<Leave>", qq1)
+btn_6.bind("<Leave>", lv)
 btn_7.bind("<Enter>", q7)
-btn_7.bind("<Leave>", qq1)
+btn_7.bind("<Leave>", lv)
 btn_8.bind("<Enter>", q8)
-btn_8.bind("<Leave>", qq1)
+btn_8.bind("<Leave>", lv)
 btn_9.bind("<Enter>", q9)
-btn_9.bind("<Leave>", qq1)
+btn_9.bind("<Leave>", lv)
 btn_0.bind("<Enter>", q10)
-btn_0.bind("<Leave>", qq1)
+btn_0.bind("<Leave>", lv)
 
-# # Lay out widgets
+# Setting buttons on win
 
 
 btn_1.grid(row=3, column=0)
@@ -337,4 +337,3 @@ btn_equal.grid(row=6, column=0, columnspan=5)
 
 
 win.mainloop()
-

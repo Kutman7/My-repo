@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31eba87c-8441-4094-a1cd-20c4e5194cfe" name="Default Changelist" comment="I created a Calculator with Tkinter. It is my firs Project." />
+    <list default="true" id="31eba87c-8441-4094-a1cd-20c4e5194cfe" name="Default Changelist" comment="I created a Calculator with Tkinter. It is my firs Project.">
+      <change afterPath="$PROJECT_DIR$/qwert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,12 +50,11 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
-    <configuration name="Project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Project">
+    <configuration name="qwert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qwert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.qwert" />
         <item itemvalue="Python.Project" />
       </list>
     </recent_temporary>
@@ -107,28 +111,37 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I created a Calculator with Tkinter. It is my firs Project." />
     <option name="LAST_COMMIT_MESSAGE" value="I created a Calculator with Tkinter. It is my firs Project." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="223" key="GridCell.Tab.0.bottom" timestamp="1603964399067">
+    <state x="548" y="137" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1604034257723">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603964399067" />
-    <state width="1515" height="223" key="GridCell.Tab.0.center" timestamp="1603964399067">
+    <state x="548" y="137" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" timestamp="1604034257723" />
+    <state x="637" y="188" key="EnvironmentVariablesDialog" timestamp="1604034269043">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603964399067" />
-    <state width="1515" height="223" key="GridCell.Tab.0.left" timestamp="1603964399066">
+    <state x="637" y="188" key="EnvironmentVariablesDialog/0.0.1536.864@0.0.1536.864" timestamp="1604034269043" />
+    <state width="1515" height="223" key="GridCell.Tab.0.bottom" timestamp="1604041945114">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603964399066" />
-    <state width="1515" height="223" key="GridCell.Tab.0.right" timestamp="1603964399067">
+    <state width="1515" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604041945114" />
+    <state width="1515" height="223" key="GridCell.Tab.0.center" timestamp="1604041945114">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603964399067" />
+    <state width="1515" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1604041945114" />
+    <state width="1515" height="223" key="GridCell.Tab.0.left" timestamp="1604041945114">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1604041945114" />
+    <state width="1515" height="223" key="GridCell.Tab.0.right" timestamp="1604041945114">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1604041945114" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1603963629343">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
