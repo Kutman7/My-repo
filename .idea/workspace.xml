@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31eba87c-8441-4094-a1cd-20c4e5194cfe" name="Default Changelist" comment="I created a Calculator with Tkinter. It is my firs Project.">
-      <change afterPath="$PROJECT_DIR$/qwert.py" afterDir="false" />
+    <list default="true" id="31eba87c-8441-4094-a1cd-20c4e5194cfe" name="Default Changelist" comment="I deleted qwerty">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603964483852</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="I changed qq to lv and deleted the last one line">
+      <created>1604042731042</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604042731042</updated>
+    </task>
+    <task id="LOCAL-00003" summary="I deleted qwerty">
+      <created>1604042833416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604042833416</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +127,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I created a Calculator with Tkinter. It is my firs Project." />
-    <option name="LAST_COMMIT_MESSAGE" value="I created a Calculator with Tkinter. It is my firs Project." />
+    <MESSAGE value="I changed qq to lv and deleted the last one line" />
+    <MESSAGE value="I deleted qwerty" />
+    <option name="LAST_COMMIT_MESSAGE" value="I deleted qwerty" />
   </component>
   <component name="WindowStateProjectService">
     <state x="548" y="137" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1604034257723">
@@ -146,9 +160,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603963629343" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603964498054">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604042841139">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603964498054" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604042841139" />
   </component>
 </project>
