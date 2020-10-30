@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31eba87c-8441-4094-a1cd-20c4e5194cfe" name="Default Changelist" comment="I deleted qwerty">
+    <list default="true" id="31eba87c-8441-4094-a1cd-20c4e5194cfe" name="Default Changelist" comment="Formatting code PEP8">
+      <change afterPath="$PROJECT_DIR$/Feedback" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604042833416</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I added new line in the end">
+      <created>1604052385498</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604052385498</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Formatting code PEP8">
+      <created>1604052560859</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604052560859</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,9 +144,15 @@
     <MESSAGE value="I created a Calculator with Tkinter. It is my firs Project." />
     <MESSAGE value="I changed qq to lv and deleted the last one line" />
     <MESSAGE value="I deleted qwerty" />
-    <option name="LAST_COMMIT_MESSAGE" value="I deleted qwerty" />
+    <MESSAGE value="I added new line in the end" />
+    <MESSAGE value="Formatting code PEP8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formatting code PEP8" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="527" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604052984445">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="527" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1604052984445" />
     <state x="548" y="137" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1604034257723">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -160,9 +181,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603963629343" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604042841139">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604052566045">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604042841139" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604052566045" />
   </component>
 </project>
