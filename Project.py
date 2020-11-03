@@ -149,7 +149,7 @@ def btn_equal():
             show_btn.insert(0, f_num / 100 * int(second_num))
         else:
             show_btn.insert(0, mat.factorial(f_num))
-    except NameError:
+    except NameError or ValueError:
         pass
 
 
